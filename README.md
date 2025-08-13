@@ -18,7 +18,7 @@
 - [Chrome Dinosaur Automation](https://github.com/singh-nikesh/Chrome_dinosaur_automate)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/nikesh-singh-328810245)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikesh-singh-328810245/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/singh-nikesh)
 
 ---

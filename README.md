@@ -42,7 +42,7 @@
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikesh%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikesh-singh-328810245/)  
 [![GitHub](https://img.shields.io/badge/GitHub-sinha--nikesh-black?style=for-the-badge&logo=github)](https://github.com/singh-nikesh)  
-[![Email](https://img.shields.io/badge/Email-nikeshsingh%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikeshsingh@example.com)  
+[![Email](https://img.shields.io/badge/Email-singhnikesh020@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikeshsingh@example.com)  
 
 ---
 

@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nikesh Singh 👋
+🚀 Full Stack Developer | 💻 MCA Student | 📚 Lifelong Learner  
 
-<!--
-**singh-nikesh/singh-nikesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 About Me
+- 🎓 Pursuing **MCA**
+- 💡 Love building projects in **Python**, **Java**, and **DBMS**
+- 🌱 Currently exploring **Machine Learning** & **AI**
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** Python, Java, C++
+- **Web:** HTML, CSS, JavaScript
+- **Database:** MySQL, PostgreSQL
+- **Tools:** Git, VS Code, IntelliJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [Traffic Sign Detection & Recognition](https://github.com/singh-nikesh/traffic_sign_detection_recognition)
+- [Chennai Data Analysis](https://github.com/singh-nikesh/CHENNAI_ANALYSIS)
+- [Chrome Dinosaur Automation](https://github.com/singh-nikesh/Chrome_dinosaur_automate)
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/YOUR-LINK)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/singh-nikesh)
+
+---
+⭐️ *Thanks for visiting! Check out my repos and feel free to connect.*

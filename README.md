@@ -11,6 +11,14 @@
 
 ---
 
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-nikesh/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singh-nikesh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhnikesh020@gmail.com)
+
+---
+
 ## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
@@ -37,11 +45,5 @@
 
 ---
 
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikesh%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/singh-nikesh/)  
-[![GitHub](https://img.shields.io/badge/GitHub-singh--nikesh-black?style=for-the-badge&logo=github)](https://github.com/singh-nikesh)  
-[![Email](https://img.shields.io/badge/Email-singhnikesh020@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikeshsingh@example.com)  
-
----
 
 ⭐ *Thanks for visiting! Don't forget to check out my repositories and connect with me.*

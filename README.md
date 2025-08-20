@@ -27,9 +27,7 @@
 ---
 
 ## 📌 Featured Projects
-🚦 [**Traffic Sign Detection & Recognition**](https://github.com/singh-nikesh/traffic_sign_detection_recognition)  
-📊 [**Chennai Data Analysis**](https://github.com/singh-nikesh/CHENNAI_ANALYSIS)  
-🦖 [**Chrome Dinosaur Automation**](https://github.com/singh-nikesh/Chrome_dinosaur_automate)  
+🤖 [**Nickk-Chatbot**](https://github.com/singh-nikesh/NiCKK-Chatbot)
 
 ---
 
@@ -40,7 +38,7 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikesh%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikesh-singh-328810245/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikesh%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/singh-nikesh/)  
 [![GitHub](https://img.shields.io/badge/GitHub-singh--nikesh-black?style=for-the-badge&logo=github)](https://github.com/singh-nikesh)  
 [![Email](https://img.shields.io/badge/Email-singhnikesh020@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikeshsingh@example.com)  
 

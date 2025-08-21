@@ -13,9 +13,9 @@
 ---
 
 ## 📫 Connect With Me  
-[![Gmail Badge](https://img.shields.io/badge/-nikeshsingh-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/-NikeshSingh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![GitHub Badge](https://img.shields.io/badge/-NikeshSingh-black?style=flat&logo=github&logoColor=white)](https://github.com/your-github)  
+[![Gmail Badge](https://img.shields.io/badge/-nikeshsingh-c14438?style=flat&logo=Gmail&logoColor=white)](singhnikesh020@gmail.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/-NikeshSingh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/singh-nikesh/)  
+[![GitHub Badge](https://img.shields.io/badge/-NikeshSingh-black?style=flat&logo=github&logoColor=white)](https://github.com/singh-nikesh)  
 
 ---
 
@@ -27,8 +27,7 @@
 ---
 
 ## 📌 Featured Project  
-### 🤖 [Nickk-Chatbot](https://github.com/your-repo-link)  
-A chatbot built with Python and NLP techniques to interact smartly with users.  
+### 🤖 [NiCKK-Chatbot](https://github.com/singh-nikesh/NiCKK-Chatbot)
 
 ---
 

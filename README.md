@@ -28,6 +28,7 @@
 
 ## 📌 Featured Project  
 ### 🤖 [NiCKK-Chatbot](https://github.com/singh-nikesh/NiCKK-Chatbot)
+### 🍔 [Foodies](https://github.com/singh-nikesh/Foodies)
 
 ---
 

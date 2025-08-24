@@ -23,7 +23,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github.com/singh-nikesh" height="30" width="40" />
 </a>
 
-
 ---
 
 ## 🛠 Tech Stack  
@@ -40,8 +39,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Nikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight)  
+![Nikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight)  
 
 ---
 

@@ -12,9 +12,10 @@
 
 ---
 ## 📫 Connect With Me  
+## 📫 Connect With Me  
 
 <a href="mailto:singhnikesh020@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="singhnikesh020@gmail.com" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="singhnikesh020@gmail.com" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/singh-nikesh/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/singh-nikesh/" height="30" width="40" />
@@ -22,6 +23,7 @@
 <a href="https://github.com/singh-nikesh" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github.com/singh-nikesh" height="30" width="40" />
 </a>
+
 
 
 ---

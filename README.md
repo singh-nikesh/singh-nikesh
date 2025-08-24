@@ -14,14 +14,15 @@
 ## 📫 Connect With Me  
 
 <a href="mailto:singhnikesh020@gmail.com" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40" style="filter: invert(32%) sepia(95%) saturate(7484%) hue-rotate(358deg) brightness(92%) contrast(90%);" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/singh-nikesh/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/singh-nikesh/" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://github.com/singh-nikesh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github.com/singh-nikesh" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
 </a>
+
 
 ---
 
@@ -39,7 +40,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Nikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight)  
+![Nikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight)  
 
 ---
 

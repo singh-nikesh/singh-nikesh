@@ -13,19 +13,17 @@
 ---
 ## 📫 Connect With Me
 
-<div>
-  <a href="mailto:singhnikesh020@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40" />
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&to=singhnikesh020@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="45" height="45" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/singh-nikesh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="45" height="45" />
   </a>
-  &nbsp;
   <a href="https://github.com/singh-nikesh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="45" height="45" />
   </a>
-</div>
+</p>
 
 ---
 
